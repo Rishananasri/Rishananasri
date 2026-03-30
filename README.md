@@ -1,18 +1,19 @@
-<div style="display:flex; justify-content:space-between; align-items:flex-start;">
-
-<div>
+<table>
+<tr>
+<td>
 
 <h1 style="margin-bottom:5px;">Hi 👋, I'm Rishana Nasri</h1>
-<div>
-
-<img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="120" style="border-radius:100%;" />
-
-</div>
 <p style="margin-top:0;"><b>Flutter Developer • Building clean mobile apps</b></p>
 
-</div>
+</td>
 
-</div>
+<td align="right">
+
+<img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="120" style="border-radius:50%;" />
+
+</td>
+</tr>
+</table>
 
 ## About Me
 Focused on creating smooth, scalable mobile applications using Flutter.  
