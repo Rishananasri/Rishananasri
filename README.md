@@ -1,8 +1,9 @@
-<div style="display:flex; align-items:center; justify-content:space-between;">
+<div style="display:flex; justify-content:space-between; align-items:flex-start;">
 
 <div>
 
-<h1>Hi 👋, I'm Rishana Nasri</h1>
+<h1 style="margin-bottom:5px;">Hi 👋, I'm Rishana Nasri</h1>
+<p style="margin-top:0;"><b>Flutter Developer • Building clean mobile apps</b></p>
 
 </div>
 
@@ -14,11 +15,9 @@
 
 </div>
 
-<p><b>Flutter Developer • Building clean mobile apps</b></p>
-
 ## About Me
-Focused on creating smooth, scalable mobile apps using Flutter.  
-I care about clean architecture, performance, and UI that actually feels good.
+Focused on creating smooth, scalable mobile applications using Flutter.  
+I focus on clean architecture, performance, and user-friendly UI.
 
 ## Languages and Tools
 <p>
@@ -33,7 +32,7 @@ I care about clean architecture, performance, and UI that actually feels good.
 </a>
 
 <a href="https://www.instagram.com/_.nassriihh._/?hl=en">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32"/>
 </a>
 
 <a href="https://leetcode.com/u/RishanaNasri/">
@@ -45,6 +44,11 @@ I care about clean architecture, performance, and UI that actually feels good.
 </a>
 
 </p>
+
+## Current Focus
+- Improving state management (Riverpod)  
+- Writing scalable Flutter code  
+- Building real-world applications  
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/5e/3b/7f/5e3b7f5c0c2c4d4e5c6f7a8b9c0d1e2f.gif" width="220"/>
