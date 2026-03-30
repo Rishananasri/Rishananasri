@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me:
 <p align="center">
 Focused on creating smooth, scalable mobile apps using Flutter.<br/>
 I care about clean architecture, performance, and UI that actually feels good.
@@ -21,9 +21,9 @@ I care about clean architecture, performance, and UI that actually feels good.
 
 ---
 
-## 🧩 Tech Stack
+## Languages and Tools:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,html,css,js" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,html,css,js" />
 </p>
 
 ---
@@ -48,15 +48,3 @@ I care about clean architecture, performance, and UI that actually feels good.
 </p>
 
 ---
-
-## ⚡ Current Focus
-- Improving state management (Riverpod)
-- Writing cleaner, scalable Flutter code
-- Building real-world applications
-
----
-
-## 🎴 Vibe Section
-<p align="center">
-<img src="https://i.pinimg.com/originals/5e/3b/7f/5e3b7f5c0c2c4d4e5c6f7a8b9c0d1e2f.gif" width="250"/>
-</p>
