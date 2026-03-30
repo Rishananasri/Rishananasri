@@ -1,16 +1,16 @@
 <table width="100%">
 <tr>
 
-<td width="60%" valign="top">
+<td width="70%" valign="top">
 
-<h1 style="margin-bottom:5px; font-size:32px;">Hi 👋, I'm Rishana Nasri</h1>
+<h1 style="margin-bottom:5px; font-size:40px;">Hi 👋, I'm Rishana Nasri</h1>
 <p style="margin-top:0; font-size:18px;"><b>Flutter Developer • Building clean mobile apps</b></p>
 
 </td>
 
-<td width="40%" align="right" valign="top">
+<td width="60%" align="right" valign="top">
 
-<img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="220" style="border-radius:50%;" />
+<img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="240" style="border-radius:50%;" />
 
 </td>
 
@@ -45,8 +45,4 @@ I focus on clean architecture, performance, and user-friendly UI.
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="34"/>
 </a>
 
-</p>
-
-<p align="center">
-<img src="https://i.pinimg.com/originals/5e/3b/7f/5e3b7f5c0c2c4d4e5c6f7a8b9c0d1e2f.gif" width="260"/>
 </p>
