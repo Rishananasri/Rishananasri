@@ -3,13 +3,12 @@
 <div>
 
 <h1 style="margin-bottom:5px;">Hi 👋, I'm Rishana Nasri</h1>
-<p style="margin-top:0;"><b>Flutter Developer • Building clean mobile apps</b></p>
-
-</div>
-
 <div>
 
 <img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="120" style="border-radius:100%;" />
+
+</div>
+<p style="margin-top:0;"><b>Flutter Developer • Building clean mobile apps</b></p>
 
 </div>
 
