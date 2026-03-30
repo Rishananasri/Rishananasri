@@ -1,16 +1,16 @@
 <table width="100%">
 <tr>
 
-<td width="65%">
+<td width="60%" valign="top">
 
-<h1 style="margin-bottom:5px;">Hi 👋, I'm Rishana Nasri</h1>
-<p style="margin-top:0; font-size:16px;"><b>Flutter Developer • Building clean mobile apps</b></p>
+<h1 style="margin-bottom:5px; font-size:32px;">Hi 👋, I'm Rishana Nasri</h1>
+<p style="margin-top:0; font-size:18px;"><b>Flutter Developer • Building clean mobile apps</b></p>
 
 </td>
 
-<td width="35%" align="right">
+<td width="40%" align="right" valign="top">
 
-<img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="180" style="border-radius:50%;" />
+<img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="220" style="border-radius:50%;" />
 
 </td>
 
@@ -30,23 +30,23 @@ I focus on clean architecture, performance, and user-friendly UI.
 <p>
 
 <a href="https://www.linkedin.com/in/rishana-nasri-202a7436a/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
 </a>
 
 <a href="https://www.instagram.com/_.nassriihh._/?hl=en">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="34"/>
 </a>
 
 <a href="https://leetcode.com/u/RishanaNasri/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="34"/>
 </a>
 
 <a href="mailto:rishananasri203@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="34"/>
 </a>
 
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/5e/3b/7f/5e3b7f5c0c2c4d4e5c6f7a8b9c0d1e2f.gif" width="240"/>
+<img src="https://i.pinimg.com/originals/5e/3b/7f/5e3b7f5c0c2c4d4e5c6f7a8b9c0d1e2f.gif" width="260"/>
 </p>
