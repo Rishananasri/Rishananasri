@@ -1,17 +1,19 @@
-<table>
+<table width="100%">
 <tr>
-<td>
+
+<td width="65%">
 
 <h1 style="margin-bottom:5px;">Hi 👋, I'm Rishana Nasri</h1>
-<p style="margin-top:0;"><b>Flutter Developer • Building clean mobile apps</b></p>
+<p style="margin-top:0; font-size:16px;"><b>Flutter Developer • Building clean mobile apps</b></p>
 
 </td>
 
-<td align="right">
+<td width="35%" align="right">
 
-<img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="120" style="border-radius:50%;" />
+<img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="180" style="border-radius:50%;" />
 
 </td>
+
 </tr>
 </table>
 
@@ -45,11 +47,6 @@ I focus on clean architecture, performance, and user-friendly UI.
 
 </p>
 
-## Current Focus
-- Improving state management (Riverpod)  
-- Writing scalable Flutter code  
-- Building real-world applications  
-
 <p align="center">
-<img src="https://i.pinimg.com/originals/5e/3b/7f/5e3b7f5c0c2c4d4e5c6f7a8b9c0d1e2f.gif" width="220"/>
+<img src="https://i.pinimg.com/originals/5e/3b/7f/5e3b7f5c0c2c4d4e5c6f7a8b9c0d1e2f.gif" width="240"/>
 </p>
