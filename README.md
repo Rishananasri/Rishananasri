@@ -9,7 +9,7 @@
 
 <div>
 
-<img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="120" style="border-radius:50%;" />
+<img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="120" style="border-radius:100%;" />
 
 </div>
 
