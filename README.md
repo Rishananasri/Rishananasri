@@ -5,7 +5,7 @@
 
 <!-- Profile -->
 <p align="center">
-<img src="https://i.pinimg.com/564x/2c/0d/65/2c0d658c3b98f3e6e0d5f9e5c5e4f4b2.jpg" width="140" style="border-radius:50%;" />
+<img src="https://media.tenor.com/-_DwVF4yZGwAAAAM/florgifqwert.gif" width="140" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rishana Nasri</h1>
