@@ -3,7 +3,6 @@
 
 ---
 
-## 🚀 What I Do
 I build cross-platform mobile applications using Flutter with focus on:
 - Smooth UI/UX
 - Clean architecture
@@ -32,8 +31,3 @@ I build cross-platform mobile applications using Flutter with focus on:
 - Working on real-world app structures
 
 ---
-
-## 🎴 Random Vibe
-<p align="center">
-<img src="https://in.pinterest.com/pin/49821139623868125/" width="220"/>
-</p>
