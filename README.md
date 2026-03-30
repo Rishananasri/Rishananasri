@@ -1,42 +1,47 @@
+<!-- Top Banner -->
 <p align="center">
-<img src="YOUR-IMAGE-LINK" width="150" style="border-radius:50%;" />
+<img src="https://i.pinimg.com/originals/9f/4e/6b/9f4e6b9c5b5c0c91c7f8d7e6f0c5d6c3.gif" width="100%" />
 </p>
 
-<h1 align="center">Rishana Nasri</h1>
-<p align="center">Flutter Developer • Building clean mobile apps</p>
+<!-- Profile -->
+<p align="center">
+<img src="https://i.pinimg.com/564x/2c/0d/65/2c0d658c3b98f3e6e0d5f9e5c5e4f4b2.jpg" width="140" style="border-radius:50%;" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Rishana Nasri</h1>
+<p align="center"><b>Flutter Developer • Building clean mobile apps</b></p>
 
 ---
 
-## 🚀 What I Do
-I build cross-platform mobile applications using Flutter with focus on:
-- Smooth UI/UX  
-- Clean architecture  
-- API integration  
+## 🚀 About Me
+<p align="center">
+Focused on creating smooth, scalable mobile apps using Flutter.<br/>
+I care about clean architecture, performance, and UI that actually feels good.
+</p>
 
 ---
 
-## 🧩 Tech Focus
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github" />
+## 🧩 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,html,css,js" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/rishana-nasri-202a7436a/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/_.nassriihh._/?hl=en">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://leetcode.com/u/RishanaNasri/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:rishananasri203@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
 </a>
@@ -44,7 +49,14 @@ I build cross-platform mobile applications using Flutter with focus on:
 
 ---
 
-## ⚡ Current Direction
-- Improving state management (Riverpod / clean architecture)  
-- Building better UI patterns in Flutter  
-- Working on real-world app structures  
+## ⚡ Current Focus
+- Improving state management (Riverpod)
+- Writing cleaner, scalable Flutter code
+- Building real-world applications
+
+---
+
+## 🎴 Vibe Section
+<p align="center">
+<img src="https://i.pinimg.com/originals/5e/3b/7f/5e3b7f5c0c2c4d4e5c6f7a8b9c0d1e2f.gif" width="250"/>
+</p>
